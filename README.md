@@ -20,3 +20,12 @@
         pip install --no-cache-dir dbt-snowflake && deactivate
     ```
 - Run astro cosmos to spin up docker containers and visualize dags in airflow
+- Snowflake view gets populated and can be queried through worksheets
+
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/ecc44ba2-11d1-4ea8-9521-6d8474fcb70a" 
+    alt="image" 
+    style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); max-width: 80%; margin: 20px 0;"
+   >
+</div>
